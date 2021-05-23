@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saad
 - 👀 I’m interested in data science, data analytics, and front-end development  
 - 🌱 I’m currently learning object-oriented programming and data structures.
-- 💞️ I’m looking to collaborate on beginner to intermediate level projects on c++ and Python (that make use of Pandas and/or Matplotlib libraries).
+- 💞️ I’m looking to collaborate on beginner to intermediate level projects on c++ and Python (that make use of Pandas and/or Matplotlib libraries) for data analysis or functional programming.
 - 📫 You can reach me on my email at 24020320@lums.edu.pk
 
 <!---
